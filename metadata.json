@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MILO - Running Companion",
+  "description": "A premium, aesthetic running companion app with personalized coaching, weekly plans, and active run tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
